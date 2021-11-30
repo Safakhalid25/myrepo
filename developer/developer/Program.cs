@@ -12,6 +12,8 @@ namespace developer
         {
             Console.WriteLine("hello world");
             Console.WriteLine("hello git");
+            Console.WriteLine("hii");
+
 
         }
     }
